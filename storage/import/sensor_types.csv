@@ -1,0 +1,6 @@
+code,description,scale,scale_name,range,type
+laeq,Ruído Médio Total,dB,Decibéis,30.0;130.0,1
+lceq,Nível de Pressão Sonora Médio,dB,Decibéis,30.0;130.0,1
+temp,Temperatura,ºC,Graus Célcius,0.0;50.0,1
+ilum,Iluminação,LUX,Luminosidade,0;65000,0
+power,Potência Elétrica,W/h,Watts/Hora,0;25000,0
